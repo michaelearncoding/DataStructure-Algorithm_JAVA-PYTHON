@@ -1,4 +1,7 @@
 # 找出数组中重复的数字: 0~n-1的范围内，
+# 题目链接：
+#https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi-yua/
+
 # 哈希表/ Set
 
 class Solution1:
